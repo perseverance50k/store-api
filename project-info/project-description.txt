@@ -1,0 +1,9 @@
+Store API
+
+In this project, we will learn the advanced filtering, sorting,
+and dynamically populating our database.
+
+This project has no front-end part because it would be an overkill.
+
+The idea is following: imagine we are in charge of a store API, and we want
+to provide a bunch of search options for our users.
